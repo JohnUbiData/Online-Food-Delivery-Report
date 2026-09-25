@@ -1,6 +1,6 @@
 Online Food Delivery Report
 
-An interactive Power BI report analyzing customer demographics, behavior, and experience within an online food delivery dataset.
+An interactive Power BI report analyzing customer demographics, behaviour, and experience within an online food delivery dataset.
 
 Business Questions
 
@@ -16,7 +16,7 @@ Key Insights
 * Positive feedback was higher than negative feedback, with 317 positive responses compared with 71 negative responses.
 * The distribution of positive and negative feedback was relatively similar across male and female customers.
 * Ordering outcomes varied across New, Regular, and Frequent customers.
-* Customer type showed different distributions across marital-status groups.
+* Customer type showed different distributions across marital status groups.
 * Customer distribution varied across different family sizes.
 * Customer demographics varied across income, age, education, and occupation.
 
@@ -34,9 +34,13 @@ Customer Overview
 
 The first dashboard provides an overview of the customer base across demographics and customer characteristics.
 
+<img src="./Overview.jpeg" alt="Customer Overview Dashboard" width="100%">
+
 Customer Behaviour & Experience
 
-The second dashboard explores customer feedback, ordering outcomes, family size, gender, and customer type across marital status groups.
+The second dashboard explores customer feedback, ordering outcomes, family size, gender, and customer type across marital-status groups.
+
+<img src="./Behaviour-Experience.jpeg" alt="Customer Behaviour & Experience Dashboard" width="100%">
 
 Tools Used
 
