@@ -40,7 +40,7 @@ Explores customer demographics and customer type across:
 * Occupation
 * Customer Type
 
-Customer Behavior & Experience
+Customer Behaviour & Experience
 
 Explores:
 
@@ -67,5 +67,5 @@ Customer Behavior & Experience
 Project Files
 
 * Online_Food_Delivery_Report.pbix — Power BI report file
-* overview.png — Customer Overview dashboard
-* behavior-experience.png — Customer Behavior & Experience dashboard
+* Overview.jpeg — Customer Overview dashboard
+* Behaviour-Experience.jpeg — Customer Behaviour & Experience dashboard
