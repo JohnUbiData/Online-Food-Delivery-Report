@@ -67,5 +67,5 @@ Customer Behavior & Experience
 Project Files
 
 * Online_Food_Delivery_Report.pbix — Power BI report file
-* Overview.jpeg — Customer Overview dashboard
+* ![Overview.jpeg] — Customer Overview dashboard
 * Behaviour-Experience.jpeg — Customer Behaviour & Experience dashboard
