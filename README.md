@@ -52,4 +52,5 @@ Tools Used
 
 Project File
 
-* Online_Food_Delivery_Report.pbix
+
+- [Download the Power BI Report](./Online_Food_Delivery_Report.pbix)
